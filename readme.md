@@ -1,1 +1,1 @@
-this file contain project documents.
+It contains executable project file
